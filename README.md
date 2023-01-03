@@ -22,7 +22,7 @@ Needs to be updated.
 - patientDayStruc Creates a structure that holds CGM per day among other things.
 - sampleAv.jl averages the CGM per day samples.
 
-##ML
+## ML
 - parseTimeSeries.jl
 - model.jl
 - plotsML.jl

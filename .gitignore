@@ -1,5 +1,9 @@
 figs/
-ML/
+ML/CNN.jl
+ML/CNN2.jl
+ML/VAE.jl
+ML/parseTimeSeries.jl	
+ML/plots.jl
 models/
 data/
 statistics/
